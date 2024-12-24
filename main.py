@@ -18,4 +18,4 @@ else:
     st.info("Cliquez sur le bouton pour générer un mot de passe.")
 
 # Footer
-st.write("💻 Projet réalisé avec Python. Pour voir le code source, [cliquez ici](https://github.com/tonpseudo/projet).")
+st.write("💻 Projet réalisé avec Python. Pour voir le code source, [cliquez ici](https://github.com/Dam77/Password-generator).")
